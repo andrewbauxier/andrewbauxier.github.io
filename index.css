@@ -1,5 +1,24 @@
-* {
+.flex {
+    display: flex;
+}
+    
+.logo {
+    font-size: 26px;
     font-family: 'Times New Roman', Times, serif;
-    color: white;
-    background-color: black;
+    color: yellow;
+    
+}
+
+.header {
+    display: flex;
+    font-size: 20px;
+    color: teal;
+    justify-content: space-between;
+    gap: 3rem;
+    
+}
+
+.bannerlinks {
+    gap: 2rem;
+        
 }

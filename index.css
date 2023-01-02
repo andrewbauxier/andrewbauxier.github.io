@@ -1,24 +1,33 @@
 .flex {
     display: flex;
 }
-    
-.logo {
-    font-size: 26px;
-    font-family: 'Times New Roman', Times, serif;
+.body {
     color: yellow;
-    
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin: 2;
+}    
+
+.logo {
+    font-size: 20px;
+    color: gold;
+    gap: 2rem;
 }
 
 .header {
     display: flex;
     font-size: 20px;
-    color: teal;
+    color: gold;
     justify-content: space-between;
-    gap: 3rem;
+    gap: 2rem;
     
 }
 
 .bannerlinks {
     gap: 2rem;
         
+}
+
+.introtext {
+    font-size: 24px;
 }

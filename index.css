@@ -3,32 +3,30 @@
 }
 
 .body {
-    color: yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #aa9000;
     font-family: 'Times New Roman', Times, serif;
     background-color: #1a001e;
-    margin: 2;
 }
 
 .logo {
     font-size: 20px;
-    color: gold;
+    color: #aa9000;
     gap: 2rem;
 }
 
 .header {
     display: flex;
     font-size: 20px;
-    color: gold;
+    color: #aa9000;
     justify-content: space-between;
-    gap: 2rem;
-
-}
-
-.bannerlinks {
-    gap: 10rem;
+    gap: 3rem;
 
 }
 
 .introtext {
-    font-size: 10px;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
 }

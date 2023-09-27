@@ -5,19 +5,19 @@
 .body {
     color: yellow;
     font-family: 'Times New Roman', Times, serif;
-    background-color: #301934;
+    background-color: #1a001e;
     margin: 2;
 }
 
 .logo {
-    font-size: 30rem;
+    font-size: 20px;
     color: gold;
     gap: 2rem;
 }
 
 .header {
     display: flex;
-    font-size: 30rem;
+    font-size: 20px;
     color: gold;
     justify-content: space-between;
     gap: 2rem;
@@ -30,5 +30,5 @@
 }
 
 .introtext {
-    font-size: 20px;
+    font-size: 10px;
 }
